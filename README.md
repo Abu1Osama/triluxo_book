@@ -6,6 +6,8 @@
 
 A simple RESTful API for managing a BookLibrary, built with Node.js, Express.js, and MongoDB.
 
+# Deployement:- https://triluxo-booklibrary.onrender.com
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -15,6 +17,8 @@ A simple RESTful API for managing a BookLibrary, built with Node.js, Express.js,
   - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
+- [Deployment](#deployment)
+- [Vide_Demo](#vide_Demo)
 
 ## Introduction
 
@@ -39,7 +43,7 @@ This project provides a basic API for managing books in a BookLibrary. It's buil
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bookstore-api.git
+   git clone https://github.com/Abu1Osama/triluxo_book.git
    ```
 
 # Navigate to the project directory:
@@ -74,3 +78,11 @@ The API provides endpoints for managing books. Use tools like Postman to interac
 - GET /api/books/:id: Retrieve a specific book by ID.
 - DELETE /api/books/:id: Delete a book by ID.
 - PATCH /api/books/:id: Update a book by ID.
+
+## Deployment
+
+- https://triluxo-booklibrary.onrender.com
+
+## Vide_Demo
+
+- https://drive.google.com/drive/folders/1r5p2zeHAwr4Qm5VcFiDw_GZNK1FDECnk?usp=sharing
