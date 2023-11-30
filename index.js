@@ -7,9 +7,7 @@ const cors = require("cors");
 app.use(cors());
 app.use(express.json());
 
-app.get("/",(re,res)=>{
-    res.send("Welcome to home page")
-})
+
 
 app.listen(process.env.port, async () => {
   try {
